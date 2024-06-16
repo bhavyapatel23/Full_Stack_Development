@@ -6,3 +6,4 @@ function Kush(){
     console.log("Hello Kush")
 }
 Kush()
+Bhavya()
